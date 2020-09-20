@@ -16,4 +16,4 @@ class MyClient(discord.Client):
             await message.channel.send('Hello {0.author.mention}'.format(message))
 
 client = MyClient()
-client.run('token')
+client . courir ( 757130504821538817 )
